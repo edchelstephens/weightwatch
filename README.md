@@ -1,4 +1,4 @@
-# Weight Watch
+![Weight Watch](assets/images/logo.png)
 
 ## Dashboard for watching your weight statistics :)
 
